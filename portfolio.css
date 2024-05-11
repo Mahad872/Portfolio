@@ -1,0 +1,111 @@
+<style>
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background-color: rgb(1, 1, 48);
+    color: azure;
+    font-family: "Poppins", sans-serif;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    background-color: rgb(2, 2, 65);
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+
+}
+
+nav ul li {
+    list-style: none;
+    margin: 0 23px;
+    text-decoration: none;
+    color: rgb(232, 238, 243);
+}
+
+nav ul li :hover {
+    colour: rgb(196, 112, 196) font-size 1.02rem
+}
+
+.left {
+    font-size: 2.2rem;
+    color: rgb(233, 233, 233);
+}
+
+.firstsection {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.firstsection div {
+    width: 30%;
+}
+
+.leftsection {
+    font-size: 2.2rem;
+    font-style: bold;
+    margin: 80px 0;
+}
+
+.rightsection img {
+
+    width: auto;
+    height: autopx;
+    margin: 50px 0;
+
+
+}
+
+.namecolour {
+    background-color: rgb(94, 15, 94);
+}
+
+#element {
+    background-color: rgb(94, 15, 94);
+}
+
+main h1 {
+    text-align: center;
+    justify-content: flex-end;
+    color: white;
+    margin-top: 30px;
+
+}
+
+.secondsection {
+    display: flex;
+    justify-content: space-around;
+    margin: 200px;
+
+}
+
+.aboutleft {
+    font-size: 2.5rem;
+    font-style: bold;
+    margin: 30px;
+    justify-content: flex-start;
+   
+}
+
+.aboutright img {
+    width: auto;
+    height: auto;
+    margin: 50px 0;
+  
+  
+
+
+}
+
+</style>
